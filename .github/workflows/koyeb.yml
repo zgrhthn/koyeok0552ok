@@ -30,4 +30,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64
-          tags: ${{ env.DOCKERHUB_REPOSITORY }}
+          tags: 467tuyi0327/uyucib
